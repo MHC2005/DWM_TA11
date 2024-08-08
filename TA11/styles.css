@@ -1,0 +1,18 @@
+
+.impar{
+    background-color: rgb(196, 99, 99);
+    font-style: verdana;
+}
+
+#n2{
+    color:blue;
+    font-size: 36px;
+}
+#n3{
+    font-size: 24px;
+}
+#n4{
+    font-size: 24px;
+    font-weight: bold;    
+    background-color: rgb(52, 202, 52);
+}
